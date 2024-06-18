@@ -1,10 +1,13 @@
+import "./App.css";
+import SignIn from "./components/SignIn";
+import { Routes, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
-}
+    <Routes>
+      <Route path="/" element={<SignIn />} />
+    </Routes>
+  );
+};
 
-export default App
+export default App;
