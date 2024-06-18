@@ -19,7 +19,7 @@ const SignIn = () => {
           href="/"
           className="flex items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white"
         >
-          <img className="w-8 h-8 mr-2" src={signIn} alt="logo" />
+          <img className="w-14 h-14 mr-2" src={signIn} alt="logo" />
           Sign In
         </a>
         <div className="w-full rounded-[50px] bg-white shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
