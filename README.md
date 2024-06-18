@@ -8,14 +8,14 @@ This project implements a user-friendly Sign In/Sign Up interface using React fo
 
 **Features**
 
-**Responsive Design**
+Responsive Design
 
-**Sign In Form**
+Sign In Form
 
-**Sign Up Form**
+Sign Up Form
 
-**Form Validation:**
+Form Validation
 
-**Tailwind CSS**
+Tailwind CSS
 
-**React Components**
+React Components
